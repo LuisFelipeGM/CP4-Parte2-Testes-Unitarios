@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Checkpoint2Application {
+public class CheckpointParte2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Checkpoint2Application.class, args);
+		SpringApplication.run(CheckpointParte2Application.class, args);
 	}
 
 }

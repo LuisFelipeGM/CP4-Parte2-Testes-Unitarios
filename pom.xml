@@ -11,7 +11,7 @@
 	<groupId>br.com.fiap</groupId>
 	<artifactId>checkpoint</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Checkpoint 2</name>
+	<name>Checkpoint Parte 2</name>
 	<description>Checkpoint 2 de Digital Business</description>
 	<properties>
 		<java.version>17</java.version>
